@@ -1,0 +1,27 @@
+* Tue Dec 20 2011 Zhang Qiang <qiang.z.zhang@intel.com> - 0.5.9.1
+- depend special version of libzypp for opensuse 11.4 and 11.3
+
+* Mon Oct 24 2011 Zhang Qiang <qiang.z.zhang@intel.com> - 0.5.9
+- Add loadSolvFile API to load solv file
+
+* Sun Sep 18 2011 Zhang Qiang <qiang.z.zhang@intel.com> - 0.5.9
+- Add CapNames to return provides info
+- Add a patch to provide PoolQuery interface.
+ 
+* Fri Sep 02 2011 Gui Chen <gui.chen@intel.com> - 0.5.9
+- Update to 0.5.9
+
+* Mon Aug 01 2011 Gui Chen <gui.chen@intel.com> - 0.5.8
+- Added armv7tnhl and armv7thl support
+
+* Fri Jan 21 2011 Marko Saukko <marko.saukko@cybercom.com> - 0.5.8
+- Added armv7hl and armv7nhl architectures (BMC#12713)
+
+* Tue Jan 04 2011 Yi Yang <yi.y.yang@intel.com> - 0.5.8
+- Support builtin arm architectures
+
+* Fri Dec 17 2010 Yi Yang <yi.y.yang@intel.com> - 0.5.8
+- Update to 0.5.8
+
+* Thu Nov 25 2010 Yi Yang <yi.y.yang@intel.com> - 0.5.7
+- Update to 0.5.7
