@@ -8,7 +8,7 @@
 # Please submit bugfixes or comments via http://bugs.opensuse.org/
 # 
 Name:           libzypp-bindings
-Version:        0.5.12
+Version:        0.5.14
 Release:        0
 License:        GPL-2.0+
 Summary:        Bindings for libzypp
