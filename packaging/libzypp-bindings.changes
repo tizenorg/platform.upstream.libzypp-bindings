@@ -1,3 +1,6 @@
+* Thu Jun 27 2013 Gui Chen <gui.chen@intel.com>  18a5e07
+- add more interface for tizen
+
 * Mon May 27 2013 Anas Nashif <anas.nashif@intel.com> 2fba846
 - Update to 0.5.14
 
@@ -10,7 +13,7 @@
 * Sun Sep 18 2011 Zhang Qiang <qiang.z.zhang@intel.com> - 0.5.9
 - Add CapNames to return provides info
 - Add a patch to provide PoolQuery interface.
- 
+
 * Fri Sep 02 2011 Gui Chen <gui.chen@intel.com> - 0.5.9
 - Update to 0.5.9
 
