@@ -259,6 +259,7 @@ namespace zypp {
 %include "Resolver.i"
 %include "ZConfig.i"
 %include "PoolQuery.i"
+%include "SolvAttr.i"
 
 //just simple files, where we need default ctor
 %include <zypp/repo/RepoProvideFile.h>
