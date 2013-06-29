@@ -1,0 +1,8 @@
+Change-Id: I3dc9cf061caf79d4d91f91fff088d067250e324e
+Code-Review+2: Anas Nashif <anas.nashif@intel.com>
+Verified+1: Anas Nashif <anas.nashif@intel.com>
+Submitted-by: Anas Nashif <anas.nashif@intel.com>
+Submitted-at: Sat, 29 Jun 2013 13:43:58 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4401
+Project: platform/upstream/libzypp-bindings
+Branch: refs/heads/tizen
