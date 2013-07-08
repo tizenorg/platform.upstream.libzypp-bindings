@@ -14,6 +14,7 @@ License:        GPL-2.0+
 Summary:        Bindings for libzypp
 Group:          Development/Sources
 Source:         %{name}-%{version}.tar.gz
+Source1001: 	libzypp-bindings.manifest
 
 BuildRequires:  cmake gcc-c++ python-devel
 BuildRequires:  swig
@@ -25,6 +26,7 @@ This package provides bindings for libzypp, the library for package management.
 
 %prep
 %setup -q
+cp %{SOURCE1001} .
 
 %build
 mkdir build
@@ -56,6 +58,7 @@ Python bindings of libzypp
 
 
 %files -n python-zypp
+%manifest %{name}.manifest
 %defattr(-,root,root,-)
 %{python_sitearch}/_zypp.so
 %{python_sitearch}/zypp.py*
