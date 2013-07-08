@@ -1,0 +1,8 @@
+Change-Id: I7d05d6e51ee9b327d9af42b87cea8b74a4aeb4eb
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 09:40:00 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4831
+Project: platform/upstream/libzypp-bindings
+Branch: refs/heads/tizen
